@@ -1,0 +1,72 @@
+{
+  "id": "1757382",
+  "name": "ye1s",
+  "font_family": "fontfamily",
+  "css_prefix_text": "el-icon-ye1s",
+  "description": "icon",
+  "glyphs": [
+    {
+      "icon_id": "13977513",
+      "name": "蜘蛛侠",
+      "font_class": "zhizhuxia",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "4592600",
+      "name": "详情",
+      "font_class": "xiangqing",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "3824042",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "4391466",
+      "name": "流行漏洞检测",
+      "font_class": "liuhangloudongjiance",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "9014925",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "1335276",
+      "name": "生成报告",
+      "font_class": "shengchengbaogao",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "7147695",
+      "name": "系统漏洞扫描",
+      "font_class": "xitongloudongsaomiao",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "8972354",
+      "name": "漏洞扫描",
+      "font_class": "loudongsaomiao",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "11502134",
+      "name": "漏洞等级",
+      "font_class": "loudongdengji",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    }
+  ]
+}
